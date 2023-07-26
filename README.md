@@ -1,1 +1,1 @@
-# codsoft_2
+Welcome to the CODSOFT repository! This repository contains the work I have completed during my internship and serves as a record of my contributions, projects, and learning throughout this period. You will find -task 2-, Word Counter's code here.# CODSOFT
